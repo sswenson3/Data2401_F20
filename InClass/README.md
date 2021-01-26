@@ -8,6 +8,8 @@ Do the following:
 
 1. In the `README.md` file, below these instructions, add an ordered list of what you ate for breakfast today.
 
+(bacon slice, 100, bacon slice, 100,bacon slice, 100, bacon slice, 100, Chick-fil-A Breakfast fillet, 251,Chick-fil-A Breakfast fillet, 251, colby jack cheese slice, 80,  colby jack cheese slice, 80, Egg Scrambled, 70 , Egg Scrambled, 70 , Iced Tea unsweetened Lareg, 0)
+
 1. Using your terminal or GitHub Desktop, add and commit the changes you've made to your repository
 
 1. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
